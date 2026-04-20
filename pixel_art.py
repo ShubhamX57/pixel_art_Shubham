@@ -6,6 +6,7 @@ def define_bee():
 
     # define some colours
     black = [0.5, 0, 0]
+    white = [1.0, 1.0, 1.0]
     blue = [0.0, 0.4, 1.0]
     grey = [0.65] * 3
 
